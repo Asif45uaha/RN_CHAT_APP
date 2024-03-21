@@ -1,0 +1,6 @@
+# Full Stack Chat App
+
+-  React Native Expo
+-  Firebase/auth
+-  Firebase/firestore
+  
